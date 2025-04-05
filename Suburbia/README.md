@@ -1,5 +1,6 @@
+# Suburbia Scammers
 
-The real page looks different to the fake one, on one hand the head of the page you can see options like services, credits and account: 
+I found some publicity related to cheap pokemon cards in suburbia's page, but also found some inconsistencies which made me realize that it was a scam. The real page looks different to the fake one, on one hand the head of the page you can see options like services, credits and account: 
 
 ![](https://github.com/ZLCube/ScamScammers/blob/main/Suburbia/ss/2.png)
 
