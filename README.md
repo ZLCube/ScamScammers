@@ -9,7 +9,7 @@ Este es un rincón especial donde **el cazador se convierte en la presa** 🕵�
 
 En este repositorio encontrarás:
 
-- 🎯 Una lista de **estafadores** que intentaron hacer de las suyas... pero no contaban con ZLCube 😏  
+- 🎯 Una lista de **estafadores** que intentaron hacer de las suyas... pero no contaban con ZLCube
 - 🧩 El **paso a paso** de cómo logré darles la vuelta al juego  
 - 🧪 El **código** que utilicé para rastrear, investigar y exponerlos  
 - 🛠️ Pequeños tips y aprendizajes que pueden ayudarte a detectar y combatir estas amenazas
