@@ -49,7 +49,7 @@ PORT     STATE SERVICE
 
 I'll jump right to the main functionality, as we know, the page its impersonating `suburbia` their purpose is  to steal user's data. Let's intercept the payment requests to see where the data is going:
 
-!(https://github.com/ZLCube/ScamScammers/blob/main/Suburbia/ss/1.png)
+![](https://github.com/ZLCube/ScamScammers/blob/main/Suburbia/ss/1.png)
 
 ```r
 POST /cvault/credit-card/temporal HTTP/2
