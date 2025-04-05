@@ -16,7 +16,7 @@ def generate_data():
         "holder_name": random.choice(["John Doe", "Alice Smith", "Carlos Pérez", "Maria Garcia"]),
         "pan": "".join([str(random.randint(1, 9))] + [str(random.randint(0, 9)) for _ in range(15)]),
         "key": "f8e7fd3b-3450-4ca5-ac49-101712109df6",
-        "country_code": "MX",  # fix error at "country_"cvv"
+        "country_code": "MX",  # Fix error at "country_"cvv"
         "cvv": str(random.randint(100, 999))
     }
 
