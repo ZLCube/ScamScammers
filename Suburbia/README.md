@@ -1,16 +1,16 @@
 
 The real page looks different to the fake one, on one hand the head of the page you can see options like services, credits and account: 
 
-![[Suburbia/ss/2.png]]
+![](https://github.com/ZLCube/ScamScammers/blob/main/Suburbia/ss/2.png)
 
 On the other hand the fake page has no account section and also its showing suspicious tags, for example "Trusted Store", purchase history from other users and last but not least really cheap price tags. 
 
-![[Suburbia/ss/3.png]]
+![](https://github.com/ZLCube/ScamScammers/blob/main/Suburbia/ss/3.png)
 
 There are also some interesting things like incusted data from other sites such as "facebook, yahoo and analytics.yahoo"; And the most important warning, the fake URL:
 Starting point: https://suburbiashop.shop
 
-![[Suburbia/4.png]]
+![](https://github.com/ZLCube/ScamScammers/blob/main/Suburbia/ss/4.png)
 
 First we need to obtain the ip address, I got it by ussing whatweb:
 
@@ -49,7 +49,7 @@ PORT     STATE SERVICE
 
 I'll jump right to the main functionality, as we know, the page its impersonating `suburbia` their purpose is  to steal user's data. Let's intercept the payment requests to see where the data is going:
 
-![[Suburbia/ss/1.png]]
+!(https://github.com/ZLCube/ScamScammers/blob/main/Suburbia/ss/1.png)
 
 ```r
 POST /cvault/credit-card/temporal HTTP/2
